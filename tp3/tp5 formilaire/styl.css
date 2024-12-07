@@ -1,0 +1,25 @@
+
+
+body{
+    background-color: rgb(183, 168, 151);
+    
+}
+
+form{
+    background-color: white;
+    
+    height: 500px;
+    position: fixed;
+    top: 20%;
+    left: 35%;
+    padding-left: 2%;
+    padding-right: 10%;
+}
+
+input{
+    margin-bottom: 10%;
+}
+
+label{
+    width: 25%;
+}
