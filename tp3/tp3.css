@@ -28,7 +28,8 @@ nav{
     top: 10%;
     }
     .l { list-style: none;
-        display:inline ;margin-left: 20px;   }
+        display:inline ;
+        margin-left: 20px;   }
 .lien { 
     text-decoration: none;
         color: aliceblue;
